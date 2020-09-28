@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GambitServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GambitServer_jar</output-path>
+    <root id="archive" name="GambitServer.jar">
+      <element id="module-output" name="GambitServer" />
+    </root>
+  </artifact>
+</component>
